@@ -1,5 +1,5 @@
 <a Nicks Markdown Cheatsheet="TOP"></a>
-![picture alt](https://placehold.co/1000x100/transparent/999?text=Nick's Markdown%20Cheatsheet&font=source-sans-pro "Nick's Markdown Cheatsheet")
+![picture alt](https://placehold.co/1000x100/transparent/999?text=Nick's_Markdown%20Cheatsheet&font=source-sans-pro "Nick's Markdown Cheatsheet")
 
 # 📝 Typography
 
